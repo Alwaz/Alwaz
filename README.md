@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 -->![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true)
 
+![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=onedark)
+
 
 
 
