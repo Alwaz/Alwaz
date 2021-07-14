@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, This is Alwaz 👋
 
 <!--
 **Alwaz/Alwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 -->
 
-![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=onedark)
+![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz)](https://github.com/Alwaz/github-readme-stats)
+
 
 
 
