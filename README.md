@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz)](https://github.com/Alwaz/github-readme-stats)
 
-![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&hide=contribs,prs)
+![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true)
+
+
+
 
 
