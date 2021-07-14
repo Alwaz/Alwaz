@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 ![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz)](https://github.com/Alwaz/github-readme-stats)
+
+Most Used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact)](https://github.com/Alwaz/github-readme-stats)
+
 
 
 
