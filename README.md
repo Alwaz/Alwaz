@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=material-palenight)
 
-![Alwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight)
+
 
 
 Most Used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact)](https://github.com/Alwaz/github-readme-stats)
+
+
 
 
 
