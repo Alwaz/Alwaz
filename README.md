@@ -1,4 +1,5 @@
-### Hey, https://raw.githubusercontent.com/Alwaz/MartinHeinz/master/wave.gif This is Alwaz
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+This is Alwaz
 
 <!--
 **Alwaz/Alwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
