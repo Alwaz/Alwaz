@@ -34,7 +34,7 @@ Most Used languages
 
 
 
-
+<a href="https://sharjeelyunus.github.io/"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
 
 
