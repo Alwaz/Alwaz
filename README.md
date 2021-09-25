@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@alwazkazi3) 
 
 
 
@@ -40,17 +39,15 @@ Here are some ideas to get you started:
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<hr>
+
+
 
 
 <p align="center">
-   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E"" />
-  
-</p>
-
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Alwaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E"" />           
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com?user=Alwaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
 
