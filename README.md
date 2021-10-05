@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E"" />  
+
 </p>
 
 <hr>
 
 <p align="center">         
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Alwaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Alwaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
 </p>
 
 
