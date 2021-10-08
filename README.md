@@ -6,6 +6,8 @@ This is Alwaz Qazi a senior year Software Engineer Undergrad.
 
 Apart from coding, I also write tech blogs - you can find my articles on [Medium](https://medium.com/@alwazkazi3) as well as on [NFT](https://medium.com/nerd-for-tech/how-to-modify-tuples-in-python-the-work-arounds-9213a2df21fe) and [Enclear Academy](https://enlear.academy/?gi=ca18bf8a1499).
 
+
+![](https://komarev.com/ghpvc/?username=Alwaz&color=blueviolet&label=Profile+Views)
 <!--
 **Alwaz/Alwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
