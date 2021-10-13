@@ -1,6 +1,6 @@
 ## Hey folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Alwaz Qazi a senior year Software Engineer Undergrad.
+This is Alwaz Qazi, Senior year Software Engineer Undergrad.
 
 ## &#x270d; Blog & Writing
 
