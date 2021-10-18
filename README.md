@@ -1,5 +1,9 @@
-## Hey folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h1 align="center">
+𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! 
+    <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
 This is Alwaz Qazi, Senior year Software Engineer Undergrad.
 
 ## &#x270d; Blog & Writing
