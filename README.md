@@ -8,7 +8,7 @@ This is Alwaz Qazi, Senior year Software Engineer Undergrad.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also write tech blogs - you can find my articles on [Medium](https://medium.com/@alwazkazi3) as well as on [NFT](https://medium.com/nerd-for-tech/how-to-modify-tuples-in-python-the-work-arounds-9213a2df21fe) and [Enclear Academy](https://enlear.academy/?gi=ca18bf8a1499).
+Apart from coding, I also write tech blogs - you can find my articles on [Medium](https://medium.com/@alwazkazi3) as well as on [NFT](https://medium.com/nerd-for-tech/how-to-modify-tuples-in-python-the-work-arounds-9213a2df21fe) and [Enclear Academy](https://enlear.academy/react-hooks-how-usereducer-hook-works-e0b8532dae40).
 
 
 ![](https://komarev.com/ghpvc/?username=Alwaz&color=blueviolet&label=Profile+Views)
