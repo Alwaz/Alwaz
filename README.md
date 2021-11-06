@@ -17,9 +17,17 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***More About ME...***
+&nbsp;***More About ME...***
 
-Apart from coding, I also write tech blogs - you can find my articles on [Medium](https://medium.com/@alwazkazi3) as well as on [NFT](https://medium.com/nerd-for-tech/how-to-modify-tuples-in-python-the-work-arounds-9213a2df21fe) and [Enclear Academy](https://enlear.academy/react-hooks-how-usereducer-hook-works-e0b8532dae40).
+
+✔ Full Stack Developer who mostly work with **ReactJS**.<br>
+✔ Full Stack developer Intern @ [DevScript](https://devscript.org/)<br>
+✔ Full Stack developer Intern @ [DevNation (TechStars'21)](https://www.thedevnation.com/)<br>
+✔ Former Fellow @ [Jadu Jobs](https://jadujobs.com/)<br>
+✔ Front end Develper Intern @ [Interns Pakistan](https://interns.pk/)<br>
+✔ Checkout my Blogs on [Medium](https://medium.com/@alwazkazi3) <br>
+✔ Some of my Publications are [Enlear Academy](https://enlear.academy/react-hooks-how-usereducer-hook-works-e0b8532dae40) and [NFT](https://medium.com/nerd-for-tech/how-to-modify-tuples-in-python-the-work-arounds-9213a2df21fe)  <br>
+✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/alwaz-qazi/)<br>
 
 
 ![](https://komarev.com/ghpvc/?username=Alwaz&color=blueviolet&label=Profile+Views)
