@@ -14,7 +14,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 &nbsp;***More About ME...***
@@ -61,24 +61,15 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">
-   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E"" />  
-
-</p>
-
-<hr>
-
 <p align="center">         
  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Alwaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
-
- <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 <hr>
 </p>
 
 
                         
-<a href="https://sharjeelyunus.github.io/"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&theme=react-dark&hide_border=true&area=true" /></a>
+<a href="https://github.com/Alwaz"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&theme=react-dark&hide_border=true&area=true" /></a>
                                                            
                                                            
 ### Show some ❤️ by starring some of the repositories!
