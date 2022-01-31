@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
                         
-<!-- <a href="https://github.com/Alwaz"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&theme=react-dark&hide_border=true&area=true" /></a> -->
+<a href="https://github.com/Alwaz"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&theme=react-dark&hide_border=true&area=true" /></a>
                                                            
                                                            
 ### Show some ❤️ by ⭐ some of the repositories!
