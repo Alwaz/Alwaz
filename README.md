@@ -12,7 +12,7 @@
     
  <h2 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Alwaz+Qazi;Aspiring+Software+Engineer;Full+Stack+developer;Tech+Blogger;Open+source+contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Alwaz+Qazi;Aspiring+Software+Engineer;Full+Stack+developer;Tech+Blogger;Open+source+contributor)](https://git.io/typing-svg)
     </h2>
     
 <p align="center">
