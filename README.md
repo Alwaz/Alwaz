@@ -3,8 +3,18 @@
     <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
-    <h3 align="center">Aspiring Software Engineer | Open Source Contributor | Tech Blogger</h3>
-</h1>
+    
+<!--     <div align="center">
+       [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239251F7&lines=Aspiring+Software+Engineer;Full+Stack+developer;Tech+Blogger)](https://git.io/typing-svg)
+</div>
+     -->
+    
+    
+ <h2 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Alwaz+Qazi;Aspiring+Software+Engineer;Full+Stack+developer;Tech+Blogger;Open+source+contributor)](https://git.io/typing-svg)
+    </h2>
+    
 <p align="center">
   <em>
     This Alwaz Qazi, a <b>final year</b> undergraduate from <a href="https://www.muet.edu.pk/"> <b>Mehran University of engineering & technology</b></a>. <br>
