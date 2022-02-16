@@ -17,7 +17,7 @@
     
 <p align="center">
   <em>
-    This Alwaz Qazi, a <b>final year</b> undergraduate from <a href="https://www.muet.edu.pk/"> <b>Mehran University of engineering & technology</b></a>. <br>
+    This is Alwaz Qazi, a <b>final year</b> undergraduate from <a href="https://www.muet.edu.pk/"> <b>Mehran University of engineering & technology</b></a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Programming Blogger</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
