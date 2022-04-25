@@ -37,7 +37,7 @@
 ✔ Front end Develper Intern @ [Interns Pakistan](https://interns.pk/)<br>
 ✔ Checkout my Blogs on [Medium](https://medium.com/@alwazkazi3) and [Dev.to](https://dev.to/alwaz/javascript-promises-simply-explained-28d)<br>
 ✔ Some of my Publications are [Enlear Academy](https://enlear.academy/react-hooks-how-usereducer-hook-works-e0b8532dae40) and [NFT](https://medium.com/nerd-for-tech/how-to-modify-tuples-in-python-the-work-arounds-9213a2df21fe)  <br>
-✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/alwaz-qazi/)<br>
+✔ Connect with me on [LinkedIn](https://www.linkedin.com/in/alwaz-qazi/)<br>
 
 
 ![](https://komarev.com/ghpvc/?username=Alwaz&color=blueviolet&label=Profile+Views)
