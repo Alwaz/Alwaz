@@ -6,8 +6,8 @@
     
 <!--     <div align="center">
        [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239251F7&lines=Aspiring+Software+Engineer;Full+Stack+developer;Tech+Blogger)](https://git.io/typing-svg)
-</div>
-     -->
+</div> -->
+    
     
     
  <h2 align="center">
@@ -213,7 +213,7 @@ Here are some ideas to get you started:
 
 
                         
-<a href="https://github.com/Alwaz"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&theme=react-dark&hide_border=true&area=true" /></a>
+<!-- <a href="https://github.com/Alwaz"><img alt="Alwaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alwaz&theme=react-dark&hide_border=true&area=true" /></a> -->
                                                            
                                                            
 ### Show some ❤️ by ⭐ some of the repositories!
