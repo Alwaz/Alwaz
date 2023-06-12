@@ -17,7 +17,7 @@
     
 <p align="center">
   <em>
-    This is Alwaz Qazi, a <b>final year</b> undergraduate from <a href="https://www.muet.edu.pk/"> <b>Mehran University of engineering & technology</b></a>. <br>
+    This is Alwaz Qazi, a <b>Software Engineering</b> graduate from <a href="https://www.muet.edu.pk/"> <b>Mehran University of engineering & technology</b></a>. <br>
     A budding <b>Full-Stack Software Developer</b> and a <b>Programming Blogger</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> and 
@@ -29,7 +29,7 @@
 
 &nbsp;***More About ME...***
 
-
+✔ **React Native** developer @ [Creditbook](https://www.creditbook.pk/) .<br>
 ✔ Full Stack Developer who mostly work with **ReactJS**.<br>
 ✔ Full Stack developer Intern @[DevNation (Techstars'21)](https://www.thedevnation.com/)<br>
 ✔ Former Full Stack developer Intern @ [DevScript](https://devscript.org/)<br>
